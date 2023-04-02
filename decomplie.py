@@ -16,11 +16,11 @@ def remove_file(path):
 
 # -------定义的常量-----
 # 需要源Apk拷贝到指定路径
-target_path = "D:/develop/decompile/apk/"
+target_path = "D:/app/decompile/apk/"
 # Apk改为zip,解压的路径
 unzip_path = target_path + "unzip/"
 # dex2jar的路径
-dex2jar_path = "D:/develop/decompile/dex2jar-2.0/"
+dex2jar_path = "D:/app/decompile/dex2jar-2.0/"
 # 反编译jar的path
 de_complie_path = dex2jar_path
 # ---------------------
